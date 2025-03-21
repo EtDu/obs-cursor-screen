@@ -1,1 +1,3 @@
-<video width="640" height="480" controls> <source src="[./demo-obs.mov](https://x.com/etiennedus/status/1902977740652859864)" type="video/quicktime"> Your browser does not support the video tag. </video>
+Checkout the video demo!
+
+https://x.com/etiennedus/status/1902977740652859864
